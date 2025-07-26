@@ -137,15 +137,6 @@ We welcome contributions. Feel free to **open issues, submit PRs, or suggest new
 🔹 Predictive Incident Management
 
 🔹 AI-driven Infrastructure as Code (IaC) Optimization
-
----
-
-📢 **Stay Connected**
-
-🔥 Follow my LinkedIn (www.linkedin.com/in/bharath-kumar-reddy2103) for AI & DevOps insights.
-
-📧 Have ideas? Open an issue or drop an email.
-
 ---
 
 📜 **License**
